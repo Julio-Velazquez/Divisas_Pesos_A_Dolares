@@ -1,0 +1,15 @@
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\bin\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.exe
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\bin\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.deps.json
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\bin\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.runtimeconfig.json
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\bin\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.runtimeconfig.dev.json
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\bin\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.dll
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\bin\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.pdb
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\obj\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.csprojAssemblyReference.cache
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\obj\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.Form1.resources
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\obj\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.csproj.GenerateResource.cache
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\obj\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.AssemblyInfoInputs.cache
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\obj\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.AssemblyInfo.cs
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\obj\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.csproj.CoreCompileInputs.cache
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\obj\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.dll
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\obj\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.pdb
+C:\Users\Julio Velazquez\Desktop\Divisas\Divisas_Pesos_A_Dolares\obj\Debug\netcoreapp3.1\Divisas_Pesos_A_Dolares.genruntimeconfig.cache
